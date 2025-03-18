@@ -47,6 +47,6 @@ The Supply Chain Dashboard helped businesses:
 This project demonstrated how Power BI enables data-driven supply chain optimization, helping businesses reduce costs, improve efficiency, and ensure smooth operations.
 
 
-PBIX FILE:
+PBIX FILE:https://drive.google.com/file/d/1jNsG-tNd96LkVN8vnLXsuI_jd7tlm8YP/view?usp=sharing
 
-PDF FILE:
+PDF FILE:https://drive.google.com/file/d/1SICkbV3Jfg2wuIRGb6dHu3M8VgqobxoR/view?usp=sharing
